@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+  }
+html{
+  background-color: #def1f0;
+}
+
+p {
+  font-family: "Lexend", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  /* Add 1em space the end of the paragraph for readability. */
+  margin-bottom: 16px !important;
+}

@@ -1,0 +1,59 @@
+{
+  "siteName": "Lighthouse",
+  "select_language": "Select language",
+  "welcome": "Welcome",
+  "click_here": "Click me!",
+  "navPages": {
+    "index": "Home",
+    "info": "Information",
+    "back": "Go Back",
+    "about": "About Lighthouse",
+    "tutorial": "Tutorial",
+    "philosophy": "Our Philosophy",
+    "changelog": "Changelog",
+    "crisis": "In Crisis?",
+    "terms": "Terms of Service",
+    "pp": "Privacy Policy"
+  },
+  "indexPage": {
+    "slogan": "Navigate Your Journey",
+    "signUp": "Sign up",
+    "login": "Login",
+    "desc":
+      {
+        "1": "Lighthouse is a safe and supportive space for systems to explore their thoughts and feelings, identify their different alters, and develop healthy and positive communication internally.",
+        "2": "Sign up today and start your journey.",
+        "3": "Lighthouse was not developed by a medical professional, and is not intended to be a substitute for professional advice, diagnosis, or treatment. Always seek the advice of your mental health professional or other qualified health provider with any questions you may have regarding your condition.",
+        "4": "Image Credits Here",
+        "5": "Designed and Programmed by Team Crystalline"
+      },
+    "features":{
+      "1": {
+        "title": "Create a space for your alters",
+        "desc": "Alters get a private journal for their own thoughts and feelings that can be safe-guarded with a password."
+      },
+      "2": {
+        "title": "Keep Your System Informed",
+        "desc": "Users get both a Communal Journal and an Internal Forum that can be used by all alters to keep everyone up-to-date."
+      },
+      "3": {
+        "title": "Get to the Root of Feelings",
+        "desc": "Each alter can set a mood with a short reason as to why they feel that way."
+      },
+      "4":{
+        "title": "Understand Your Alters Better",
+        "desc": "Alters can provide basic information on themselves, but can also address what makes them feel safe, what they would want from the System, and what they would like accommodations for. Users can also create nested Subsystems, or a second standalone System, for those with complex systems."
+      },
+      "5": {
+        "title": "Import from Pluralkit & Simply Plural",
+        "desc": "If you already use the popular Discord bot Pluralkit or the app Simply Plural, you can import your System into Lighthouse!"
+      },
+      "6":{
+        "title": "Interactive Worksheets",
+        "desc": "If you have a trauma-based System or would like to use trauma worksheets, Lighthouse has a growing number of interactive pages to help process emotions, make a safety plan, or prepare for an event that you know will be stressful or triggering."
+      }
+    },
+    "lastFeatureDisclaimer": "*These worksheets are intended for educational and informational purposes only and should not be used as a substitute for professional mental health care.",
+    "supporters": "Thank You to Our Supporters"
+  }
+}
