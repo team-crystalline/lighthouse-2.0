@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1920 1080">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #d9b23d;
+      }
+
+      .st1 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st2 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st3 {
+        fill: url(#linear-gradient3);
+      }
+
+      .st4 {
+        fill: #52565c;
+      }
+
+      .st5 {
+        fill: url(#radial-gradient);
+      }
+
+      .st6 {
+        fill: url(#linear-gradient);
+      }
+
+      .st7 {
+        fill: #911111;
+      }
+
+      .st8 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="960" y1="0" x2="960" y2="1082" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cd9d3"/>
+      <stop offset="1" stop-color="#def1f0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="960" y1="693" x2="960" y2="924" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#075865"/>
+      <stop offset="1" stop-color="#123859"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="698" y1="750" x2="698" y2="1082" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#065966"/>
+      <stop offset="1" stop-color="#123859"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient3" x1="1277" y1="874" x2="1277" y2="1080" xlink:href="#linear-gradient2"/>
+    <radialGradient id="radial-gradient" cx="248.482" cy="168.669" fx="248.482" fy="168.669" r="154.339" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".838" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect class="st6" width="1920" height="1082"/>
+  <path class="st8" d="M1277,185h-678c40.383-30.743,83.448-45.053,130-38,0,0,54.851-30,104.925-30s136.075,20,136.075,20c0,0,14.45-20,82.725-20s104.275,30,104.275,30c30.74-2.55,75.562,18.041,120,38Z"/>
+  <path class="st8" d="M1445.353,356h355.647c-24.161-15.371-49.927-22.527-77.779-19,0,0-32.817-15-62.777-15-29.96,0-81.413,10-81.413,10,0,0-8.645-10-49.494-10-40.849,0-57.597,24.021-84.184,34Z"/>
+  <g>
+    <polygon points="1628.766 612 1701 612 1671.814 587 1599.58 587 1628.766 612"/>
+    <rect class="st8" x="1547" y="402" width="61" height="264"/>
+    <polygon class="st7" points="1608 600 1547 570.698 1547 537 1608 566.302 1608 600"/>
+    <polygon class="st7" points="1608 663 1547 633.698 1547 600 1608 629.302 1608 663"/>
+    <polygon class="st8" points="1663.068 650 1573 650 1573 612.213 1600.442 593 1663.068 593 1663.068 650"/>
+    <polygon class="st8" points="1663.068 593 1671.824 597.497 1671.824 651.155 1653.583 656.978 1663.068 593"/>
+    <polygon points="1640.118 612 1561.648 612 1593.353 587 1671.824 587 1640.118 612"/>
+    <polygon class="st7" points="1608 480 1547 450.698 1547 417 1608 446.302 1608 480"/>
+    <polygon class="st7" points="1608 543 1547 513.698 1547 480 1608 509.302 1608 543"/>
+    <rect x="1555" y="464" width="7" height="23"/>
+    <rect x="1555" y="532" width="7" height="23"/>
+    <rect x="1547" y="389" width="61" height="22"/>
+    <rect x="1547" y="344" width="61" height="12"/>
+    <rect class="st4" x="1547" y="364" width="61" height="22"/>
+    <circle class="st0" cx="1576" cy="375" r="9"/>
+    <rect x="1540" y="382" width="75" height="14"/>
+    <rect x="1540" y="353" width="75" height="14"/>
+    <rect x="1558" y="356" width="8" height="30"/>
+    <rect x="1586" y="356" width="8" height="30"/>
+    <rect x="1588" y="616" width="22" height="22"/>
+    <rect class="st8" x="1598" y="613" width="2" height="28"/>
+    <rect class="st8" x="1598" y="613" width="2" height="28" transform="translate(2226 -972) rotate(90)"/>
+  </g>
+  <path class="st0" d="M1920,802H698c373.376-154.193,797.346-160.595,1222-165v165Z"/>
+  <g>
+    <path class="st2" d="M1920,924H0v-196.477s277.773-21.323,429-21.323c221,0,231,57.942,531,57.942s208-46.773,692.888-46.773c226.112,0,267.112-24.369,267.112-24.369v231Z"/>
+    <path class="st1" d="M1396,1082H0v-325.64c483.374-32.381,951.25,56.299,1396,325.64Z"/>
+    <path class="st3" d="M1920,882.883v197.117H634c433.532-228.737,859.826-214.911,1286-197.117Z"/>
+  </g>
+  <circle class="st5" cx="248.482" cy="168.669" r="154.339"/>
+  <circle class="st8" cx="248.482" cy="168.669" r="68"/>
+</svg>
